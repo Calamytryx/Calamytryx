@@ -1,7 +1,7 @@
 # Winston Agustin — Full-Stack Developer
 
 <p align="center">
-  <img src="img/AGUSTIN_WINSTON.jpg" width="25%">
+  <img src="img/AGUSTIN_WINSTON.jpg" width="35%">
 </p>
 
 <p align="center">
